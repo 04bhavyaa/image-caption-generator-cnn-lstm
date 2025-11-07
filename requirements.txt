@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+numpy
+matplotlib
+Pillow
+pickle5
